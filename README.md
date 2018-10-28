@@ -1,6 +1,10 @@
 # Statistical Machine Learning at Monash University
 This is a repository to organize the teaching material for [Statistical Machine Learning (ETC3555)](http://www.monash.edu/pubs/2018handbooks/units/ETC3555.html), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com). The tutorial will be supervised by [Cameron Roach](https://www.linkedin.com/in/cameron-roach-00873b69/).
 
+# PRACTICE EXAM
+
+- [Practice exam 2018](exam-practice/practice.pdf)
+
 # Course links
 
 - [Moodle (for discussion forum, assignments, grades, protected material)](https://moodle.vle.monash.edu/course/view.php?id=45443)
